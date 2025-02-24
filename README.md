@@ -1,6 +1,6 @@
 # :wave:hi, i am Shxuuer <i>/ʃʊər/</i>
 
-I am currently studying at Beijing University of Posts and Telecommunications, with a research focus on intelligent in car networks. I am passionate about developing full stack and interesting small tools.
+I am currently studying at Beijing University of Posts and Telecommunications, with a passionation about developing full stack and interesting small tools.
 
 **:house: My Personal Homepage: [https://shxuuer.github.io](https://shxuuer.github.io)**
 
