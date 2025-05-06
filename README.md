@@ -2,7 +2,7 @@
 
 I am currently studying at Beijing University of Posts and Telecommunications, with a passionation about developing full stack and interesting small tools.
 
-**:house: My Personal Homepage: [https://shxuuer.github.io](https://shxuuer.github.io)**
+**:house: My Personal Homepage: [https://www.shxuuer.xyz](https://www.shxuuer.xyz)**
 
 **:star2: My most used languages**
 
