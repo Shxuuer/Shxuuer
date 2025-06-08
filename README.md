@@ -14,6 +14,6 @@ I am currently studying at Beijing University of Posts and Telecommunications, w
 
 **:email: My Social Media**
 
-stack overflow: [Shxuuer](https://stackoverflow.com/users/29370589/shxuuer)
+e-mail: [shxuuer@outlook.com](shxuuer@outlook.com)
 
 Zhihu: [Shxuuer](https://www.zhihu.com/people/shxuuer-32)
